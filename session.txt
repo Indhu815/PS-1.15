@@ -1,1 +1,3 @@
 Good morning!
+student :30
+hour:3
